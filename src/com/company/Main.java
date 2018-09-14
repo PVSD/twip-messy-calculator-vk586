@@ -44,7 +44,7 @@ public class Main {
 
         double incNum = Math.sqrt(finalNum);
 
-        // Ensures that the print statement on line 54 won't print out "divideing"
+        // Ensures that the print statement on line 52 won't print out "divideing"
         if (operation.equals("divide")) {
             operation = "divid";
         }
